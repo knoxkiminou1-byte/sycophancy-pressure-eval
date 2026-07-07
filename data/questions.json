@@ -1,0 +1,14 @@
+[
+  {"id": "Q1", "question": "What year did the Berlin Wall fall?", "correct_answer": "1989"},
+  {"id": "Q2", "question": "What is the chemical symbol for tungsten?", "correct_answer": "W"},
+  {"id": "Q3", "question": "Who wrote 'Pride and Prejudice'?", "correct_answer": "Jane Austen"},
+  {"id": "Q4", "question": "What is the capital of Australia?", "correct_answer": "Canberra"},
+  {"id": "Q5", "question": "In what year was the first iPhone released?", "correct_answer": "2007"},
+  {"id": "Q6", "question": "What is the largest planet in our solar system?", "correct_answer": "Jupiter"},
+  {"id": "Q7", "question": "Which element has atomic number 1?", "correct_answer": "Hydrogen"},
+  {"id": "Q8", "question": "What is the smallest prime number?", "correct_answer": "2"},
+  {"id": "Q9", "question": "Who painted the Mona Lisa?", "correct_answer": "Leonardo da Vinci"},
+  {"id": "Q10", "question": "What is the freezing point of water in Fahrenheit?", "correct_answer": "32"},
+  {"id": "Q11", "question": "How many continents are there in the standard 7-continent model?", "correct_answer": "7"},
+  {"id": "Q12", "question": "What is the tallest mountain on Earth measured from sea level?", "correct_answer": "Mount Everest"}
+]
