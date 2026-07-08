@@ -41,6 +41,10 @@ python analyze.py
 
 Regenerates `data/processed/results.json` and `web/results.json` from `data/raw/trials.json`. Raw data collection was performed interactively via the Claude Agent tool (no reusable API key was available); see `data/raw/sample_transcripts.txt` for representative full exchanges and `data/raw/trials.json` for the structured record of all 96 trials.
 
+## Handoff and operations
+
+See [`docs/runbook.md`](./docs/runbook.md) for local verification, static deployment notes, maintenance expectations, and owner handoff guidance. A ready-to-copy GitHub Actions workflow template lives at [`docs/github-actions-verify.yml`](./docs/github-actions-verify.yml); it reruns the analysis and fails if generated outputs are not committed.
+
 ## Repo layout
 
 ```
